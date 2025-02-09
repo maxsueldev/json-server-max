@@ -1,0 +1,212 @@
+{
+    "artigos": [
+        {
+            "id": 0,
+            "title": "Por que devo ensinar empreendedorismo em minha escola?",
+            "imageUrl": "https://blog-vmm-react.vercel.app/assets/artigos/por-que-devo-ensinar-empreendedorismo-em-minha-escola/thumb-por-que-devo-ensinar-empreendedorismo-em-minha-escola.jpg",
+            "linkName": "por-que-devo-ensinar-empreendedorismo-em-minha-escola",
+            "description": "Sempre que falo sobre empreendedorismo fica martelando na minha mente: “Poxa, seria tão legal e tão revigorando ver alunos ainda no ensino regular estudando e praticando o empreendedorismo! ”, mas muita gente ainda me questiona sobre os motivos...."
+        },
+        {
+            "id": 1,
+            "title": "O inglês e o mundo dos negócios: qual a relação",
+            "imageUrl": "https://blog-vmm-react.vercel.app/assets/artigos/ingles-e-o-mundo-dos-negocios/thumb-ingles-e-o-mundo-dos-negocios.jpg",
+            "linkName": "ingles-e-o-mundo-dos-negocios",
+            "description": "É inegável que ser empreendedor é uma das profissões mais difíceis e que mais exigem da nossa sociedade atualmente, afinal de contas cuidar da própria empresa requer muito conhecimento e, mais ainda, muito esforço. Exatamente por isso, você assim como eu já deve ter ouvido milhares de vezes...."
+        },
+        {
+            "id": 2,
+            "title": "As melhores ferramentas para gerir e analizar seu negócio! [parte 1]",
+            "imageUrl": "https://blog-vmm-react.vercel.app/assets/artigos/ferramentas-para-gerir-e-analisar-seu-negocio-parte-1/thumb-ferramentas-para-gerir-e-analisar-seu-negocio-parte-1.jpg",
+            "linkName": "ferramentas-para-gerir-e-analisar-seu-negocio-parte-1",
+            "description": "Gerir o próprio negócio nunca foi tarefa fácil e ao contrário do que se parece, não tem experiência do mundo que a torne melhor. É sempre necessário estar planejando, analisando, se adaptando as novidades do mercado, criando, pivotando e trazendo constantes inovações para fidelizar..."
+        },
+        {
+            "id": 3,
+            "title": "As melhores ferramentas para gerir e analizar seu negócio! [parte 2]",
+            "imageUrl": "https://blog-vmm-react.vercel.app/assets/artigos/ferramentas-para-gerir-e-analisar-seu-negocio-parte-2/thumb-ferramentas-para-gerir-e-analisar-seu-negocio-parte-2.jpg",
+            "linkName": "ferramentas-para-gerir-e-analisar-seu-negocio-parte-2",
+            "description": "A importância de uma gestão empresarial de qualidade que tenha conhecimento sobre todos os acontecimentos e novidades recorrentes em uma empresa não é novidade, mas quando chega no dia a dia vemos a real dificuldade de gerir um negócio e estar a par de tudo..."
+        },
+        {
+            "id": 4,
+            "title": "Como abrir meu primeiro negócio: 6 dicas que podem te ajudar!",
+            "imageUrl": "https://blog-vmm-react.vercel.app/assets/artigos/como-abrir-meu-primeiro-negocio/thumb-como-abrir-meu-primeiro-negocio.jpg",
+            "linkName": "como-abrir-meu-primeiro-negocio",
+            "description": "Se analisarmos nosso cotidiano e todas as questões econômicas que o Brasil está enfrentando, perceberemos que está se tornando cada vez mais comum vermos novos negócios nascendo e mais pessoas começando a investir no mercado empreendedor. O problema de todo esse crescimento..."
+        }
+    ],
+    "projects": [
+        {
+            "id": 0,
+            "name": "Blog VMM React",
+            "description": "Projeto de um blog, desenvolvido em React JS com recursos de router-dom e artigos buscados em fake Api",
+            "techs": ["React", "Saas", "Context API", "React-Router-DOM", "Fetch API", "React Icons"],
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/vamos-mudar-o-mundo-blog.png",
+            "codeUrl": "https://github.com/maxsueldev/blog-vmm-react",
+            "homepage": "https://blog-vmm-react.vercel.app/"
+        },
+        {
+            "id": 1,
+            "name": "Portfolio",
+            "description": "Portfólio profissional desenvolvido com ReactJS",
+            "techs": ["React", "Styled Components", "Axios", "SwiperJS", "React Icons"],
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/portfolio-maxsuel.png",
+            "codeUrl": "https://github.com/maxsueldev/portfolio-website",
+            "homepage": "https://portfolio-maxsuel.vercel.app/"
+        },
+        {
+            "id": 2,
+            "name": "github API Profile",
+            "description": "Consumo da API do GitHub com busca e filtro de projetos",
+            "techs": ["HTML", "CSS", "JavaScript", "Fetch API"],
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/githubAPIProfile.png",
+            "codeUrl": "https://github.com/maxsueldev/githubAPIProfile",
+            "homepage": "https://github-api-profile-max.vercel.app/"
+        },
+        {
+            "id": 3,
+            "name": "Professor de Informatica",
+            "description": "Página destinada ao ensino de Informática Básica, Excel, Web-Design e JavaScript Básico",
+            "techs": ["React", "Styled Components"],
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/professorInformatica.png",
+            "codeUrl": "https://github.com/maxsueldev/professorInformatica",
+            "homepage": "https://maxsuel-informatica.vercel.app/"
+        },
+        {
+            "id": 4,
+            "name": "Movies TMDB API",
+            "description": "Aplicação de lista de filmes e detalhes vindos da API TMDB",
+            "techs": ["React", "Fetch API", "React-Router-DOM", "React Icons"],
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/moviesAPI.png",
+            "codeUrl": "https://github.com/maxsueldev/moviesAPI",
+            "homepage": ""
+        },
+        {
+            "id": 5,
+            "name": "Open Weather API",
+            "description": "Aplicação de Clima e Tempo a partir de busca de cidade, usando as APIs openWeatherMap e a flagsApi",
+            "techs": ["React", "Fetch API", "React Icons", "Styled Components"],
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/OpenWeatherAPI.png",
+            "codeUrl": "https://github.com/maxsueldev/climaTempoAPI",
+            "homepage": ""
+        },
+        {
+            "id": 6,
+            "name": "Relogio Digital",
+            "description": "Projeto com diferentes usabilidades de data e hora como pomodoro, relógios digital e analógico",
+            "techs": ["HTML", "CSS", "JavaScript"],
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/relogioDigital.png",
+            "codeUrl": "https://github.com/maxsueldev/relogioDigital",
+            "homepage": "https://relogio-digital-max.vercel.app/"
+        },
+        {
+            "id": 7,
+            "name": "Escola Creative",
+            "description": "Projeto desenvolvido para uma escola de inglês e informática",
+            "techs": ["HTML", "CSS", "JavaScript", "JQuery", "Bootstrap"],
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/escolaCreative.png",
+            "codeUrl": "https://github.com/maxsueldev/escolaCreative",
+            "homepage": "https://escola-creative-max.vercel.app/"
+        },
+        {
+            "id": 8,
+            "name": "Vamos Mudar o Mundo",
+            "description": "Projeto criado para uma palestrante sobre temas que envolvem empreendedorismo",
+            "techs": ["HTML", "CSS", "JavaScript", "JQuery", "Bootstrap"],
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/vamos-mudar-o-mundo.png",
+            "codeUrl": "https://github.com/maxsueldev/vamos-mudar-o-mundo",
+            "homepage": "https://vamos-mudar-o-mundo-max.vercel.app/"
+        },
+        {
+            "id": 9,
+            "name": "Domino JS",
+            "description": "dominoJS é um jogo interativo de dominó para dois jogadores, em JavaScript e executado direto no console, utilizando Node e Yarn com a dependência Readline para interface de captura dos nomes dos jogadores ",
+            "techs": ["JavaScript"],
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/dominoJS.png",
+            "codeUrl": "https://github.com/maxsueldev/dominoJS",
+            "homepage": ""
+        },
+        {
+            "id": 10,
+            "name": "Calculator JS",
+            "description": "CalculatorJS é uma calculadora que usa elementos da DOM para realizar cálculos básicos, assim como uma calculadora de bolso comum, usando HTML, CSS e JavaScript ",
+            "techs": ["HTML", "CSS", "JavaScript"],
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/CalculatorJS.png",
+            "codeUrl": "https://github.com/maxsueldev/CalculatorJS",
+            "homepage": "https://calculator-js-max.vercel.app/"
+        },
+        {
+            "id": 11,
+            "name": "Parallax Effect",
+            "description": "Website com demonstração de uso do Efeito Parallax",
+            "techs": ["HTML", "CSS", "JavaScript", "JQuery"],
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/parallax-effect.png",
+            "codeUrl": "https://github.com/maxsueldev/parallax-effect",
+            "homepage": "https://parallax-effect-max.vercel.app"
+        },
+        {
+            "id": 12,
+            "name": "Pets Blog",
+            "description": "Website para blog do mundo animal",
+            "techs": ["HTML", "CSS", "JavaScript", "Firebase"],
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/pets-blog.png",
+            "codeUrl": "https://github.com/maxsueldev/pets-blog",
+            "homepage": "https://pets-blog-max.vercel.app/"
+        },
+        {
+            "id": 13,
+            "name": "Contagem Regressiva",
+            "description": "Contagem regressiva para lançamento futuro de produto ",
+            "techs": ["HTML", "CSS", "JavaScript"],
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/contagemRegressiva.png",
+            "codeUrl": "https://github.com/maxsueldev/contagemRegressiva",
+            "homepage": ""
+        },
+        {
+            "id": 14,
+            "name": "Movies Info",
+            "description": "Website com utilização do SwiperJS para slides no Javascript",
+            "techs": ["HTML", "CSS", "JavaScript", "Swiper JS"],
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/movies-info.png",
+            "codeUrl": "https://github.com/maxsueldev/Movies-Info",
+            "homepage": "https://movies-info-max.vercel.app"
+        },
+        {
+            "id": 15,
+            "name": "Frutas & Frutos",
+            "description": "Website comum com HTML e CSS",
+            "techs": ["HTML", "CSS"],
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/frutas-frutos.png",
+            "codeUrl": "https://github.com/maxsueldev/frutas-frutos",
+            "homepage": "https://frutas-frutos-max.vercel.app"
+        },
+        {
+            "id": 16,
+            "name": "List Of Popular Games",
+            "description": "Projeto para prática do uso de manipulação de objetos e da DOM, com dados estáticos",
+            "techs": ["HTML", "CSS", "JavaScript"],
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/list-of-popular-games.png",
+            "codeUrl": "https://github.com/maxsueldev/List-Of-Popular-Games",
+            "homepage": ""
+        },
+        {
+            "id": 17,
+            "name": "Random Users API",
+            "description": "Usando map, filter e reduce no JavaScript para trabalhar com dados de uma API de usuários aleatórios (https://randomuser.me/)",
+            "techs": ["JavaScript"],
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/random-users-api.png",
+            "codeUrl": "https://github.com/maxsueldev/randomUsersAPI",
+            "homepage": ""
+        },
+        {
+            "id": 18,
+            "name": "Form-Validity",
+            "description": "Validando dados de um formulário de criação de conta, com Validity State",
+            "techs": ["HTML", "CSS", "JavaScript"],
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/form-validity.png",
+            "codeUrl": "https://github.com/maxsueldev/formValidity",
+            "homepage": ""
+        }
+    ]
+}

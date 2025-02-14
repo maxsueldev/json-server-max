@@ -183,15 +183,6 @@
         },
         {
             "id": 16,
-            "name": "List Of Popular Games",
-            "description": "Projeto para prática do uso de manipulação de objetos e da DOM, com dados estáticos",
-            "techs": ["HTML", "CSS", "JavaScript"],
-            "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/list-of-popular-games.png",
-            "codeUrl": "https://github.com/maxsueldev/List-Of-Popular-Games",
-            "homepage": ""
-        },
-        {
-            "id": 17,
             "name": "Random Users API",
             "description": "Usando map, filter e reduce no JavaScript para trabalhar com dados de uma API de usuários aleatórios (https://randomuser.me/)",
             "techs": ["JavaScript"],
@@ -200,7 +191,7 @@
             "homepage": ""
         },
         {
-            "id": 18,
+            "id": 17,
             "name": "Form-Validity",
             "description": "Validando dados de um formulário de criação de conta, com Validity State",
             "techs": ["HTML", "CSS", "JavaScript"],

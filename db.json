@@ -102,6 +102,24 @@
         },
         {
             "id": 7,
+            "name": "To Do List",
+            "description": "CRUD de lista de compras, com dados armazenados na localStorage",
+            "techs": ["HTML", "CSS", "JavaScript"],
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/todolist.png",
+            "codeUrl": "https://github.com/maxsueldev/to-do-list",
+            "homepage": ""
+        },
+        {
+            "id": 8,
+            "name": "Tasks List",
+            "description": "CRUD de lista de tarefas, usando ReactJS, Tailwind e Lucide para ícones",
+            "techs": ["React", "Tailwind", "Lucide", "React-Router-Dom"],
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/tasklist.png",
+            "codeUrl": "https://github.com/maxsueldev/task-list-react",
+            "homepage": ""
+        },
+        {
+            "id": 9,
             "name": "Escola Creative",
             "description": "Projeto desenvolvido para uma escola de inglês e informática",
             "techs": ["HTML", "CSS", "JavaScript", "JQuery", "Bootstrap"],
@@ -110,7 +128,7 @@
             "homepage": "https://escola-creative-max.vercel.app/"
         },
         {
-            "id": 8,
+            "id": 10,
             "name": "Vamos Mudar o Mundo",
             "description": "Projeto criado para uma palestrante sobre temas que envolvem empreendedorismo",
             "techs": ["HTML", "CSS", "JavaScript", "JQuery", "Bootstrap"],
@@ -119,7 +137,7 @@
             "homepage": "https://vamos-mudar-o-mundo-max.vercel.app/"
         },
         {
-            "id": 9,
+            "id": 11,
             "name": "Domino JS",
             "description": "dominoJS é um jogo interativo de dominó para dois jogadores, em JavaScript e executado direto no console, utilizando Node e Yarn com a dependência Readline para interface de captura dos nomes dos jogadores ",
             "techs": ["JavaScript"],
@@ -128,7 +146,7 @@
             "homepage": ""
         },
         {
-            "id": 10,
+            "id": 12,
             "name": "Calculator JS",
             "description": "CalculatorJS é uma calculadora que usa elementos da DOM para realizar cálculos básicos, assim como uma calculadora de bolso comum, usando HTML, CSS e JavaScript ",
             "techs": ["HTML", "CSS", "JavaScript"],
@@ -137,7 +155,7 @@
             "homepage": "https://calculator-js-max.vercel.app/"
         },
         {
-            "id": 11,
+            "id": 13,
             "name": "Parallax Effect",
             "description": "Website com demonstração de uso do Efeito Parallax",
             "techs": ["HTML", "CSS", "JavaScript", "JQuery"],
@@ -146,7 +164,7 @@
             "homepage": "https://parallax-effect-max.vercel.app"
         },
         {
-            "id": 12,
+            "id": 14,
             "name": "Pets Blog",
             "description": "Website para blog do mundo animal",
             "techs": ["HTML", "CSS", "JavaScript", "Firebase"],
@@ -155,7 +173,7 @@
             "homepage": "https://pets-blog-max.vercel.app/"
         },
         {
-            "id": 13,
+            "id": 15,
             "name": "Contagem Regressiva",
             "description": "Contagem regressiva para lançamento futuro de produto ",
             "techs": ["HTML", "CSS", "JavaScript"],
@@ -164,7 +182,7 @@
             "homepage": ""
         },
         {
-            "id": 14,
+            "id": 16,
             "name": "Movies Info",
             "description": "Website com utilização do SwiperJS para slides no Javascript",
             "techs": ["HTML", "CSS", "JavaScript", "Swiper JS"],
@@ -173,7 +191,7 @@
             "homepage": "https://movies-info-max.vercel.app"
         },
         {
-            "id": 15,
+            "id": 17,
             "name": "Frutas & Frutos",
             "description": "Website comum com HTML e CSS",
             "techs": ["HTML", "CSS"],
@@ -182,7 +200,7 @@
             "homepage": "https://frutas-frutos-max.vercel.app"
         },
         {
-            "id": 16,
+            "id": 18,
             "name": "Random Users API",
             "description": "Usando map, filter e reduce no JavaScript para trabalhar com dados de uma API de usuários aleatórios (https://randomuser.me/)",
             "techs": ["JavaScript"],
@@ -191,7 +209,7 @@
             "homepage": ""
         },
         {
-            "id": 17,
+            "id": 19,
             "name": "Form-Validity",
             "description": "Validando dados de um formulário de criação de conta, com Validity State",
             "techs": ["HTML", "CSS", "JavaScript"],

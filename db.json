@@ -39,21 +39,21 @@
     "projects": [
         {
             "id": 0,
-            "name": "Blog VMM React",
-            "description": "Projeto de um blog, desenvolvido em React JS com recursos de router-dom e artigos buscados em fake Api",
-            "techs": ["React", "Saas", "Context API", "React-Router-DOM", "Fetch API", "React Icons"],
-            "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/vamos-mudar-o-mundo-blog.png",
-            "codeUrl": "https://github.com/maxsueldev/blog-vmm-react",
-            "homepage": "https://blog-vmm-react.vercel.app/"
-        },
-        {
-            "id": 1,
             "name": "Portfolio",
             "description": "Portfólio profissional desenvolvido com ReactJS",
             "techs": ["React", "Styled Components", "Axios", "SwiperJS", "React Icons"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/portfolio-maxsuel.png",
             "codeUrl": "https://github.com/maxsueldev/portfolio-website",
             "homepage": "https://portfolio-maxsuel.vercel.app/"
+        },
+        {
+            "id": 1,
+            "name": "Blog VMM React",
+            "description": "Projeto de um blog, desenvolvido em React JS com recursos de router-dom e artigos buscados em fake Api",
+            "techs": ["React", "Saas", "Context API", "React-Router-DOM", "Fetch API", "React Icons"],
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/vamos-mudar-o-mundo-blog.png",
+            "codeUrl": "https://github.com/maxsueldev/blog-vmm-react",
+            "homepage": "https://blog-vmm-react.vercel.app/"
         },
         {
             "id": 2,

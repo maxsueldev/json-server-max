@@ -40,7 +40,7 @@
         {
             "id": 0,
             "name": "Portfolio",
-            "description": "Portfólio profissional desenvolvido com ReactJS",
+            "description": "Neste portfólio, compartilho alguns dos meus projetos. Trabalho com boas práticas de usabilidade e performance, sempre buscando oferecer uma experiência de usuário de qualidade.",
             "techs": ["React", "Styled Components", "Axios", "SwiperJS", "React Icons"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/portfolio-maxsuel.png",
             "codeUrl": "https://github.com/maxsueldev/portfolio-website",

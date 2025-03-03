@@ -148,7 +148,7 @@
         {
             "id": 12,
             "name": "Domino JS",
-            "description": "dominoJS é um jogo interativo de dominó para dois jogadores, em JavaScript e executado direto no console, utilizando Node e Yarn com a dependência Readline para interface de captura dos nomes dos jogadores ",
+            "description": "dominoJS é um jogo interativo de dominó para dois jogadores, em JavaScript e executado direto no console.",
             "techs": ["JavaScript"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/dominoJS.png",
             "codeUrl": "https://github.com/maxsueldev/dominoJS",

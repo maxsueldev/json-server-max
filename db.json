@@ -41,7 +41,7 @@
             "id": 0,
             "name": "Portfolio",
             "description": "Neste portfólio, compartilho alguns dos meus projetos.",
-            "techs": ["React", "Styled Components", "Axios", "SwiperJS", "React Icons", "emailJS"],
+            "techs": ["React", "Styled Components", "TypeScript", "Axios", "SwiperJS", "React Icons", "emailJS"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/portfolio-maxsuel.png",
             "codeUrl": "https://github.com/maxsueldev/portfolio-website",
             "homepage": "https://portfolio-maxsuel.vercel.app/"

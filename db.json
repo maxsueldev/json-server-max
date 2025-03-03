@@ -40,7 +40,7 @@
         {
             "id": 0,
             "name": "Portfolio",
-            "description": "Neste portfólio, compartilho alguns dos meus projetos. Trabalho com boas práticas de usabilidade e performance, sempre buscando oferecer uma experiência de usuário de qualidade.",
+            "description": "Neste portfólio, compartilho alguns dos meus projetos.",
             "techs": ["React", "Styled Components", "Axios", "SwiperJS", "React Icons", "emailJS"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/portfolio-maxsuel.png",
             "codeUrl": "https://github.com/maxsueldev/portfolio-website",

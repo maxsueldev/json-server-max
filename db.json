@@ -49,7 +49,7 @@
         {
             "id": 1,
             "name": "Calculadora Angular",
-            "description": "Projeto de uma Calculadora simples, desenvolvido com Angular",
+            "description": "Projeto de uma Calculadora simples, desenvolvido com Angular, TypeScript e SASS com o padrão BEM",
             "techs": ["Angular", "TypeScript", "Saas"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/calculadoraAngular.png",
             "codeUrl": "https://github.com/maxsueldev/Calculadora-Angular",

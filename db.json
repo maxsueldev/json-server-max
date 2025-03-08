@@ -39,6 +39,24 @@
     "projects": [
         {
             "id": 0,
+            "name": "Blog VMM React",
+            "description": "Projeto de um blog, desenvolvido em React JS com recursos de router-dom e artigos buscados em fake Api",
+            "techs": ["React", "Saas", "Context API", "React-Router-DOM", "Fetch API", "React Icons"],
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/vamos-mudar-o-mundo-blog.png",
+            "codeUrl": "https://github.com/maxsueldev/blog-vmm-react",
+            "homepage": ""
+        },
+        {
+            "id": 1,
+            "name": "Calculadora Angular",
+            "description": "Projeto de uma Calculadora simples, desenvolvido com Angular",
+            "techs": ["Angular", "TypeScript", "Saas"],
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/calculadoraAngular.png",
+            "codeUrl": "https://github.com/maxsueldev/Calculadora-Angular",
+            "homepage": "https://blog-vmm-react.vercel.app/"
+        },
+        {
+            "id": 2,
             "name": "Portfolio",
             "description": "Neste portfólio, compartilho alguns dos meus projetos.",
             "techs": ["React", "Styled Components", "TypeScript", "Axios", "SwiperJS", "React Icons", "emailJS"],
@@ -47,7 +65,7 @@
             "homepage": "https://portfolio-maxsuel.vercel.app/"
         },
         {
-            "id": 1,
+            "id": 3,
             "name": "MaxJobs Validation",
             "description": "Validação de dados de um formulário com React-Hook-Form, Zod e TypeScript",
             "techs": ["React", "Tailwind CSS", "TypeScript", "React-Hook-Form", "Zod", "Lucide"],
@@ -56,16 +74,7 @@
             "homepage": ""
         },
         {
-            "id": 2,
-            "name": "Blog VMM React",
-            "description": "Projeto de um blog, desenvolvido em React JS com recursos de router-dom e artigos buscados em fake Api",
-            "techs": ["React", "Saas", "Context API", "React-Router-DOM", "Fetch API", "React Icons"],
-            "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/vamos-mudar-o-mundo-blog.png",
-            "codeUrl": "https://github.com/maxsueldev/blog-vmm-react",
-            "homepage": "https://blog-vmm-react.vercel.app/"
-        },
-        {
-            "id": 3,
+            "id": 4,
             "name": "github API Profile",
             "description": "Consumo da API do GitHub com busca e filtro de projetos",
             "techs": ["HTML", "CSS", "JavaScript", "Fetch API"],
@@ -74,7 +83,7 @@
             "homepage": "https://github-api-profile-max.vercel.app/"
         },
         {
-            "id": 4,
+            "id": 5,
             "name": "Professor de Informatica",
             "description": "Página destinada ao ensino de Informática Básica, Excel, Web-Design e JavaScript Básico",
             "techs": ["React", "Styled Components"],
@@ -83,7 +92,7 @@
             "homepage": "https://maxsuel-informatica.vercel.app/"
         },
         {
-            "id": 5,
+            "id": 6,
             "name": "Movies TMDB API",
             "description": "Aplicação de lista de filmes e detalhes vindos da API TMDB",
             "techs": ["React", "Fetch API", "React-Router-DOM", "React Icons"],
@@ -92,7 +101,7 @@
             "homepage": ""
         },
         {
-            "id": 6,
+            "id": 7,
             "name": "Open Weather API",
             "description": "Aplicação de Clima e Tempo a partir de busca de cidade, usando as APIs openWeatherMap e a flagsApi",
             "techs": ["React", "Fetch API", "React Icons", "Styled Components"],
@@ -101,7 +110,7 @@
             "homepage": ""
         },
         {
-            "id": 7,
+            "id": 8,
             "name": "Relogio Digital",
             "description": "Projeto com diferentes usabilidades de data e hora como pomodoro, relógios digital e analógico",
             "techs": ["HTML", "CSS", "JavaScript"],
@@ -110,7 +119,7 @@
             "homepage": "https://relogio-digital-max.vercel.app/"
         },
         {
-            "id": 8,
+            "id": 9,
             "name": "To Do List",
             "description": "CRUD de lista de compras, com dados armazenados na localStorage",
             "techs": ["HTML", "CSS", "JavaScript"],
@@ -119,7 +128,7 @@
             "homepage": ""
         },
         {
-            "id": 9,
+            "id": 10,
             "name": "Tasks List",
             "description": "CRUD de lista de tarefas, usando ReactJS, Tailwind e Lucide para ícones",
             "techs": ["React", "Tailwind", "Lucide", "React-Router-Dom"],
@@ -128,7 +137,7 @@
             "homepage": ""
         },
         {
-            "id": 10,
+            "id": 11,
             "name": "Escola Creative",
             "description": "Projeto desenvolvido para uma escola de inglês e informática",
             "techs": ["HTML", "CSS", "JavaScript", "JQuery", "Bootstrap"],
@@ -137,7 +146,7 @@
             "homepage": "https://escola-creative-max.vercel.app/"
         },
         {
-            "id": 11,
+            "id": 12,
             "name": "Vamos Mudar o Mundo",
             "description": "Projeto criado para uma palestrante sobre temas que envolvem empreendedorismo",
             "techs": ["HTML", "CSS", "JavaScript", "JQuery", "Bootstrap"],
@@ -146,7 +155,7 @@
             "homepage": "https://vamos-mudar-o-mundo-max.vercel.app/"
         },
         {
-            "id": 12,
+            "id": 13,
             "name": "Domino JS",
             "description": "dominoJS é um jogo interativo de dominó para dois jogadores, em JavaScript e executado direto no console.",
             "techs": ["JavaScript"],
@@ -155,7 +164,7 @@
             "homepage": ""
         },
         {
-            "id": 13,
+            "id": 14,
             "name": "Calculator JS",
             "description": "CalculatorJS é uma calculadora que usa elementos da DOM para realizar cálculos básicos, assim como uma calculadora de bolso comum, usando HTML, CSS e JavaScript ",
             "techs": ["HTML", "CSS", "JavaScript"],
@@ -164,7 +173,7 @@
             "homepage": "https://calculator-js-max.vercel.app/"
         },
         {
-            "id": 14,
+            "id": 15,
             "name": "Parallax Effect",
             "description": "Website com demonstração de uso do Efeito Parallax",
             "techs": ["HTML", "CSS", "JavaScript", "JQuery"],
@@ -173,7 +182,7 @@
             "homepage": "https://parallax-effect-max.vercel.app"
         },
         {
-            "id": 15,
+            "id": 16,
             "name": "Pets Blog",
             "description": "Website para blog do mundo animal",
             "techs": ["HTML", "CSS", "JavaScript", "Firebase"],
@@ -182,7 +191,7 @@
             "homepage": "https://pets-blog-max.vercel.app/"
         },
         {
-            "id": 16,
+            "id": 17,
             "name": "Contagem Regressiva",
             "description": "Contagem regressiva para lançamento futuro de produto ",
             "techs": ["HTML", "CSS", "JavaScript"],
@@ -191,7 +200,7 @@
             "homepage": ""
         },
         {
-            "id": 17,
+            "id": 18,
             "name": "Movies Info",
             "description": "Website com utilização do SwiperJS para slides no Javascript",
             "techs": ["HTML", "CSS", "JavaScript", "Swiper JS"],
@@ -200,7 +209,7 @@
             "homepage": "https://movies-info-max.vercel.app"
         },
         {
-            "id": 18,
+            "id": 19,
             "name": "Frutas & Frutos",
             "description": "Website comum com HTML e CSS",
             "techs": ["HTML", "CSS"],
@@ -209,7 +218,7 @@
             "homepage": "https://frutas-frutos-max.vercel.app"
         },
         {
-            "id": 19,
+            "id": 20,
             "name": "Random Users API",
             "description": "Usando map, filter e reduce no JavaScript para trabalhar com dados de uma API de usuários aleatórios (https://randomuser.me/)",
             "techs": ["JavaScript"],
@@ -218,7 +227,7 @@
             "homepage": ""
         },
         {
-            "id": 20,
+            "id": 21,
             "name": "Form-Validity",
             "description": "Validando dados de um formulário de criação de conta, com Validity State",
             "techs": ["HTML", "CSS", "JavaScript"],

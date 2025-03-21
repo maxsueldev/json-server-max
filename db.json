@@ -59,7 +59,7 @@
             "id": 2,
             "name": "MaxJobs Validation",
             "description": "Validação de dados de um formulário com React-Hook-Form, Zod e TypeScript",
-            "techs": ["React", "Tailwind CSS", "TypeScript", "React-Hook-Form", "Zod", "Lucide"],
+            "techs": ["React", "Tailwind", "TypeScript", "React-Hook-Form", "Zod", "Lucide"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/MaxJobs.png",
             "codeUrl": "https://github.com/maxsueldev/MaxJobs-validator",
             "homepage": ""

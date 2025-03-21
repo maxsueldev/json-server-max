@@ -39,7 +39,7 @@
     "projects": [
         {
             "id": 0,
-            "name": "Blog VMM React",
+            "name": "Blog Vamos Mudar o Mundo",
             "description": "Projeto de um blog, desenvolvido em React JS com recursos de router-dom e artigos buscados em fake Api",
             "techs": ["React", "Saas", "Context API", "React-Router-DOM", "Fetch API", "React Icons"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/vamos-mudar-o-mundo-blog.png",

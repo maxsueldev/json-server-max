@@ -41,7 +41,7 @@
             "id": 0,
             "name": "Pomodoro Tasks CRUD",
             "description": "Um pomodoro funcional com CRUD de tarefas",
-            "techs": ["React", "TypeScript", "SASS", "React Icons"],
+            "techs": ["React", "TypeScript", "Context API", "SASS", "React Icons"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/pomodoroCrud.png",
             "codeUrl": "https://github.com/maxsueldev/pomodoro-crud/",
             "homepage": ""

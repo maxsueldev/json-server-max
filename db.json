@@ -210,15 +210,6 @@
         },
         {
             "id": 19,
-            "name": "Contagem Regressiva",
-            "description": "Contagem regressiva para lançamento futuro de produto ",
-            "techs": ["HTML", "CSS", "JavaScript"],
-            "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/contagemRegressiva.png",
-            "codeUrl": "https://github.com/maxsueldev/contagemRegressiva",
-            "homepage": ""
-        },
-        {
-            "id": 20,
             "name": "Movies Info",
             "description": "Website com utilização do SwiperJS para slides no Javascript",
             "techs": ["HTML", "CSS", "JavaScript", "Swiper JS"],
@@ -227,7 +218,7 @@
             "homepage": "https://movies-info-max.vercel.app"
         },
         {
-            "id": 21,
+            "id": 20,
             "name": "Frutas & Frutos",
             "description": "Website comum com HTML e CSS",
             "techs": ["HTML", "CSS"],
@@ -236,16 +227,7 @@
             "homepage": "https://frutas-frutos-max.vercel.app"
         },
         {
-            "id": 22,
-            "name": "Random Users API",
-            "description": "Usando map, filter e reduce no JavaScript para trabalhar com dados de uma API de usuários aleatórios (https://randomuser.me/)",
-            "techs": ["JavaScript"],
-            "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/random-users-api.png",
-            "codeUrl": "https://github.com/maxsueldev/randomUsersAPI",
-            "homepage": ""
-        },
-        {
-            "id": 23,
+            "id": 21,
             "name": "Form-Validity",
             "description": "Validando dados de um formulário de criação de conta, com Validity State",
             "techs": ["HTML", "CSS", "JavaScript"],

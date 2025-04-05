@@ -93,6 +93,15 @@
         },
         {
             "id": 6,
+            "name": "Open Weather API",
+            "description": "Aplicação de Clima e Tempo a partir de busca de cidade, usando as APIs openWeatherMap e a flagsApi",
+            "techs": ["React", "Fetch API", "React Icons", "Styled Components"],
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/OpenWeatherAPI.png",
+            "codeUrl": "https://github.com/maxsueldev/climaTempoAPI",
+            "homepage": ""
+        },
+        {
+            "id": 7,
             "name": "github API Profile",
             "description": "Consumo da API do GitHub com busca e filtro de projetos",
             "techs": ["HTML", "CSS", "JavaScript", "Fetch API"],
@@ -101,7 +110,7 @@
             "homepage": "https://github-api-profile-max.vercel.app/"
         },
         {
-            "id": 7,
+            "id": 8,
             "name": "Professor de Informatica",
             "description": "Página destinada ao ensino de Informática Básica, Excel, Web-Design e JavaScript Básico",
             "techs": ["React", "Styled Components"],
@@ -110,21 +119,12 @@
             "homepage": "https://maxsuel-informatica.vercel.app/"
         },
         {
-            "id": 8,
+            "id": 9,
             "name": "Movies TMDB API",
             "description": "Aplicação de lista de filmes e detalhes vindos da API TMDB",
             "techs": ["React", "Fetch API", "React-Router-DOM", "React Icons"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/moviesAPI.png",
             "codeUrl": "https://github.com/maxsueldev/moviesAPI",
-            "homepage": ""
-        },
-        {
-            "id": 9,
-            "name": "Open Weather API",
-            "description": "Aplicação de Clima e Tempo a partir de busca de cidade, usando as APIs openWeatherMap e a flagsApi",
-            "techs": ["React", "Fetch API", "React Icons", "Styled Components"],
-            "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/OpenWeatherAPI.png",
-            "codeUrl": "https://github.com/maxsueldev/climaTempoAPI",
             "homepage": ""
         },
         {

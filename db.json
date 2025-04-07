@@ -41,7 +41,7 @@
             "id": 0,
             "name": "Expenses Bank",
             "description": "Sistema de controle de despesas financeiras",
-            "techs": ["React", "TypeScript", "Context API", "Firebase", "React Icons"],
+            "techs": ["React", "TypeScript", "Context API", "Firebase", "CSS Modules", "React Icons"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/expensesBank.png",
             "codeUrl": "https://github.com/maxsueldev/expenses-bank/",
             "homepage": ""

@@ -44,7 +44,7 @@
             "techs": ["React", "React-Router-DOM", "FontAwesome"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/spotify.png",
             "codeUrl": "https://github.com/maxsueldev/spotify",
-            "homepage": "https://spotify.vercel.app/"
+            "homepage": "https://spotify-max.vercel.app/"
         },
         {
             "id": 1,

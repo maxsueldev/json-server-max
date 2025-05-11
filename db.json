@@ -116,7 +116,7 @@
             "techs": ["React", "Fetch API", "React Icons", "Styled Components"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/OpenWeatherAPI.png",
             "codeUrl": "https://github.com/maxsueldev/climaTempoAPI",
-            "homepage": ""
+            "homepage": "https://clima-tempo-api-max.vercel.app/"
         },
         {
             "id": 9,
@@ -161,7 +161,7 @@
             "techs": ["HTML", "CSS", "JavaScript"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/todolist.png",
             "codeUrl": "https://github.com/maxsueldev/to-do-list",
-            "homepage": ""
+            "homepage": "https://to-do-list-max-theta.vercel.app/"
         },
         {
             "id": 14,
@@ -242,7 +242,7 @@
             "techs": ["HTML", "CSS", "JavaScript"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/form-validity.png",
             "codeUrl": "https://github.com/maxsueldev/formValidity",
-            "homepage": ""
+            "homepage": "https://form-validity-max.vercel.app/"
         }
     ]
 }

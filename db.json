@@ -71,7 +71,7 @@
             "techs": ["React", "TypeScript", "Tailwind", "Context API", "React-Router-DOM", "Fetch API", "Lucide"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/ecommerceProducts.png",
             "codeUrl": "https://github.com/maxsueldev/Ecommerce-Products/",
-            "homepage": ""
+            "homepage": "https://ecommerce-products-max.vercel.app/"
         },
         {
             "id": 4,

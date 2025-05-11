@@ -53,7 +53,7 @@
             "techs": ["React", "TypeScript", "Firebase", "Context API", "CSS Modules", "React-Router-DOM", "React Icons"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/expensesBank.png",
             "codeUrl": "https://github.com/maxsueldev/expenses-bank/",
-            "homepage": ""
+            "homepage": "https://expenses-bank-max.vercel.app/"
         },
         {
             "id": 2,

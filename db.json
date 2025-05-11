@@ -89,7 +89,7 @@
             "techs": ["React", "Tailwind", "TypeScript", "React-Hook-Form", "Zod", "Lucide"],
             "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/MaxJobs.png",
             "codeUrl": "https://github.com/maxsueldev/MaxJobs-validator",
-            "homepage": ""
+            "homepage": "https://max-jobs-validator.vercel.app/"
         },
         {
             "id": 6,

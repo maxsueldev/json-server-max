@@ -42,7 +42,7 @@
             "name": "WikiMovies",
             "description": "Listagem da API de filmes TMDB, com paginação e busca de filmes",
             "techs": ["React", "TypeScript", "ContextAPI", "React-Router-DOM", "React Icons", "CSS Modules"],
-            "ImageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/wikimovies.png",
+            "imageUrl": "https://portfolio-maxsuel.vercel.app/assets/prints/wikimovies.png",
             "codeUrl": "https://github.com/maxsueldev/WikiMovies",
             "homepage": "https://wiki-movies-max.vercel.app/"
         },
